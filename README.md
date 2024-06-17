@@ -1,2 +1,2 @@
-# Maturitni-projekt
+# Systém pro Snímání a Analýzu SPZ pomocí kamery
 Kamera ktera dela statistiku na to kolik ceskych aut, aut z ciziny ad projizdi napr na Praskove.
